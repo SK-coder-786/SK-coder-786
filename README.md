@@ -1,4 +1,4 @@
-# AI Kashif — AI/web developer
+# Kashif — AI/web developer
 
 I build small, focused products that turn generative AI into something you can actually ship — not chat wrappers. TypeScript, React, and structured Gemini output, end to end.
 
